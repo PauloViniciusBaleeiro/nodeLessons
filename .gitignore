@@ -1,3 +1,4 @@
 node_modules/*
 */node_modules/*
 lesson03/*/node_modules/
+lesson04/*/*/node_modules/*
